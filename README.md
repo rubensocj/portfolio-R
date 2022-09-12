@@ -1,2 +1,2 @@
-* [Comparação de métodos de imputação para séries temporais univariadas](imputation/uni/imputation-uni-comparison.html)
-* [Análise de Probit para cálculo de concentrações letais](probit/probit.html)
+* [Comparação de métodos de imputação para séries temporais univariadas](https://rpubs.com/rubensocj/imputation-univariate)
+* [Análise de Probit para cálculo de concentrações letais](https://rpubs.com/rubensocj/probit)
