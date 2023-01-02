@@ -15,7 +15,7 @@ O tipo de material se classifica como:
 ## Data cleaning
 
 - ![](https://img.shields.io/badge/GitHub-blue) [Processamento de dados da Fundação Cearense Meteorologia (FUNCEME)]()
-- ![](https://img.shields.io/badge/GitHub-blue) [Processamento de dados da Rede Integrada de Monitoramento de Águas Subterrâneas (RIMAS)]()
+- ![](https://img.shields.io/badge/GitHub-blue) [Processamento de dados da Rede Integrada de Monitoramento de Águas Subterrâneas (RIMAS)](https://github.com/rubensocj/series-RIMAS)
 
 ## Time Series Analysis
 
