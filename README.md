@@ -24,6 +24,7 @@ O tipo de material se classifica como:
 ## Time Series Analysis
 
 - ![](https://img.shields.io/badge/Paper-blueviolet) [Previsão do nível de água subterrânea usando ensemble de modelos de séries temporais](http://sites.ufca.edu.br/proder/wp-content/uploads/sites/19/2022/10/Dissertao_Mestrado_PRODER_-_Rubens_final.pdf)
+- ![](https://img.shields.io/badge/Paper-blueviolet) [Aplicação de redes neurais artificiais para previsão do nível de água subterrânea em poço de monitoramento na bacia sedimentar do Araripe, Ceará](https://dx.doi.org/10.5016/geociencias.v41i02.16103)
 - ![](https://img.shields.io/badge/Paper-blueviolet) [Simulação de valores ausentes em séries temporais de precipitação para avaliação de métodos de imputação](http://dx.doi.org/10.55761/abclima.v30i18.15243)
 - ![](https://img.shields.io/badge/Paper-blueviolet) [Preenchimento de falhas em séries temporais de níveis de águas subterrâneas usando métodos univariados](https://anais.abrhidro.org.br/job.php?Job=13793)
 - ![](https://img.shields.io/badge/Rpubs-orange) [Combinação de preditores de séries temporais](https://rpubs.com/rubensocj/combination-of-forecasts)
