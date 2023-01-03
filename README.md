@@ -1,4 +1,4 @@
-# Arquivo R
+# Portfolio R
 
 Este repositório reúne estudos de caso, tutoriais e trabalhos científicos relacionados à Ciência de Dados usando R.
 Os itens estão classificados quanto ao tema e o tipo de material.
