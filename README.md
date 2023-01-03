@@ -1,6 +1,6 @@
-# Portfolio R
+# Arquivo R
 
-Este repositório reúne um portfólio de análises, tutoriais e trabalhos científicos usando R.
+Este repositório reúne estudos de caso, tutoriais e trabalhos científicos relacionados à Ciência de dados usando R.
 Os itens estão classificados quanto ao tema e o tipo de material.
 Os temas são *Data cleaning*, *Time Series Analysis*, *Machine Learning* e *Estatística*.
 O tipo de material se classifica como:
