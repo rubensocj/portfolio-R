@@ -8,7 +8,7 @@ O tipo de material se classifica como:
 | Legenda                                        | Descrição                                                                         |
 |------------------------------------------------|-----------------------------------------------------------------------------------|
 | ![](https://img.shields.io/badge/GitHub-blue)       | Códigos em repositórios do GitHub                                            |
-| ![](https://img.shields.io/badge/Paper-blueviolet) | Artigos, resumos e dissertação que usam R publicados em diferentes portais   |
+| ![](https://img.shields.io/badge/Paper-blueviolet) | Artigos, resumos e dissertação que usam R   |
 | ![](https://img.shields.io/badge/Rpubs-orange)      | Estudos de caso e tutoriais em R Markdown publicados no Rpubs                       |
 | ![](https://img.shields.io/badge/Kaggle-red)        | Estudos de caso e tutoriais em Notebooks publicados no Kaggle                       |
 
@@ -23,10 +23,10 @@ O tipo de material se classifica como:
 
 ## Time Series Analysis
 
-- ![](https://img.shields.io/badge/Paper-blueviolet) [Previsão do nível de água subterrânea usando ensemble de modelos de séries temporais](http://sites.ufca.edu.br/proder/wp-content/uploads/sites/19/2022/10/Dissertao_Mestrado_PRODER_-_Rubens_final.pdf)
-- ![](https://img.shields.io/badge/Paper-blueviolet) [Aplicação de redes neurais artificiais para previsão do nível de água subterrânea em poço de monitoramento na bacia sedimentar do Araripe, Ceará](https://dx.doi.org/10.5016/geociencias.v41i02.16103)
-- ![](https://img.shields.io/badge/Paper-blueviolet) [Simulação de valores ausentes em séries temporais de precipitação para avaliação de métodos de imputação](http://dx.doi.org/10.55761/abclima.v30i18.15243)
-- ![](https://img.shields.io/badge/Paper-blueviolet) [Preenchimento de falhas em séries temporais de níveis de águas subterrâneas usando métodos univariados](https://anais.abrhidro.org.br/job.php?Job=13793)
+- ![](https://img.shields.io/badge/GitHub-blue) [Previsão do nível de água subterrânea usando ensemble de modelos de séries temporais](https://github.com/rubensocj/dissertacao)
+- ![](https://img.shields.io/badge/Paper-blueviolet) [Aplicação de redes neurais artificiais para previsão do nível de água subterrânea em poço de monitoramento na bacia sedimentar do Araripe, Ceará](https://github.com/rubensocj/arquivo-R/blob/main/src/CunhaJuniorFirmino2022_Geociencias.pdf)
+- ![](https://img.shields.io/badge/Paper-blueviolet) [Simulação de valores ausentes em séries temporais de precipitação para avaliação de métodos de imputação](https://github.com/rubensocj/arquivo-R/blob/main/src/CunhaJuniorFirmino2022_Climatologia.pdf)
+- ![](https://img.shields.io/badge/Paper-blueviolet) [Preenchimento de falhas em séries temporais de níveis de águas subterrâneas usando métodos univariados](https://github.com/rubensocj/arquivo-R/blob/main/src/CunhaJunior2022_ENREHSE.pdf)
 - ![](https://img.shields.io/badge/Rpubs-orange) [Combinação de preditores de séries temporais](https://rpubs.com/rubensocj/combination-of-forecasts)
 - ![](https://img.shields.io/badge/Rpubs-orange) [Comparação de métodos de imputação para séries temporais univariadas](https://rpubs.com/rubensocj/imputation-univariate)
 
@@ -38,4 +38,4 @@ O tipo de material se classifica como:
 
 - ![](https://img.shields.io/badge/Rpubs-orange) [Análise de Probit para cálculo de concentrações letais](https://rpubs.com/rubensocj/probit)
 - ![](https://img.shields.io/badge/Paper-blueviolet) [Análise da associação entre incidência de dengue e
-pluviosidade na Região Metropolitana do Cariri, Ceará](http://dx.doi.org/10.22478/ufpb.1981-1268.2022v16n1.61267)
+pluviosidade na Região Metropolitana do Cariri, Ceará](https://github.com/rubensocj/arquivo-R/blob/main/src/CunhaJunior2022_GaiaScientia.pdf)
