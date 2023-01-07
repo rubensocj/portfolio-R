@@ -1,4 +1,4 @@
-# Portfolio R
+# Portfólio R
 
 Este repositório reúne projetos relacionados à Ciência de Dados desenvolvidos em linguagem R para fins acadêmicos, profissionais e de auto-aprendizado.
 Os projetos são apresentados como Repositórios, Notebooks Kaggle, documentos R Markdown, Dashboards Shiny e Artigos científicos.
@@ -9,7 +9,13 @@ Os projetos são apresentados como Repositórios, Notebooks Kaggle, documentos R
 **Descrição:** Uma empresa de tecnologia de produtos voltados à saúde para mulheres deseja usar análise de dados para identificar oportunidades de crescimento. Estudo de caso realizado durante o curso Google Data Analytics.  
 **Tipo:** Notebook Kaggle  
 **Técnicas:** Limpeza de Dados, Visualização de Dados, Análise de Correlação  
-**Pacotes:** dplyr, ggplot, ggpubr, corrplot, lubridate
+**Pacotes:** dplyr, ggplot2, ggpubr, corrplot, lubridate
+
+- [Violence against Women: Exploratory Data Analysis](https://www.kaggle.com/rubensocj/violence-against-women-exploratory-data-analysis)  
+**Descrição:** Análise Exploratória de Dados de uma pesquisa realizada em países africanos, asiáticos e sul-americanos abordando as atitudes e as justificativas para cometer atos de violência contra as mulheres.  
+**Tipo:** Notebook Kaggle  
+**Técnicas:** Limpeza de Dados, Visualização de Dados, Análise Exploratória de Dados  
+**Pacotes:** dplyr, ggplot2
 
 - [Processamento de dados da Fundação Cearense Meteorologia (FUNCEME)](https://github.com/rubensocj/series-FUNCEME)  
 **Descrição:** Automatiza o processo de importação, limpeza e organização de dados de postos pluviométricos do Estado do Ceará.  
