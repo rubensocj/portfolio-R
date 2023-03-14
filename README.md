@@ -8,7 +8,7 @@ Os projetos são apresentados como Repositórios, Notebooks Kaggle, documentos R
 - [Visualização dinâmica de dados de casos de dengue no estado do Ceará](https://rubensocj.shinyapps.io/dengue-ce/)  
 **Descrição:** Ferramenta interativa para visualização de dados de casos de dengue nos municípios do estado do Ceará, obtidos da Secretaria da Saúde (SESA) pelo portal IPECEDATA.  
 **Tipo:** Dashboard Shiny  
-**Técnicas:** Visualização de Dados
+**Técnicas:** Visualização de Dados  
 **Pacotes:** shiny, shinyjs, dplyr, ggplot2, gridExtra, treemapify, geobr
 
 ## Análise de Dados
