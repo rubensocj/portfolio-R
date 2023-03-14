@@ -3,6 +3,14 @@
 Este repositório reúne projetos relacionados à Ciência de Dados desenvolvidos em linguagem R para fins acadêmicos, profissionais e de auto-aprendizado.
 Os projetos são apresentados como Repositórios, Notebooks Kaggle, documentos R Markdown, Dashboards Shiny e Artigos científicos.
 
+## Visualização de Dados
+
+- [Visualização dinâmica de dados de casos de dengue no estado do Ceará](https://rubensocj.shinyapps.io/dengue-ce/)  
+**Descrição:** Ferramenta interativa para visualização de dados de casos de dengue nos municípios do estado do Ceará, obtidos da Secretaria da Saúde (SESA) pelo portal IPECEDATA.  
+**Tipo:** Dashboard Shiny  
+**Técnicas:** Visualização de Dados
+**Pacotes:** shiny, shinyjs, dplyr, ggplot2, gridExtra, treemapify, geobr
+
 ## Análise de Dados
 
 - [Análise de dados da empresa Bellabeat](https://www.kaggle.com/code/rubensocj/an-lise-de-dados-da-empresa-bellabeat)  
@@ -50,6 +58,12 @@ Os projetos são apresentados como Repositórios, Notebooks Kaggle, documentos R
 **Pacotes:** forecast
 
 ## Aprendizado de Máquina
+
+- [Previsão de preços de imóveis usando técnicas avançadas de regressão](https://www.kaggle.com/code/rubensocj/regress-o-lasso-svr-e-random-forest)  
+**Descrição:** Aplicação de técnicas Regressão LASSO, Support Vector Regression (SVR) e Random Forest (RF) para previsão dos preços de imóveis em Ames, Iowa, Estados Unidos.  
+**Tipo:** Notebook Kaggle  
+**Técnicas:** Regressão, Previsão, Análise Exploratória de Dados, LASSO, Support Vector Regression, Random Forest  
+**Pacotes:** e1071, randomForest, glmnet, dplyr, corrplot
 
 - [Implementação de redes neurais usando o algoritmo Extreme Learning Machine em R](https://github.com/rubensocj/extreme-learning-machine)  
 **Descrição:** Implementação de variações do algoritmo Extreme Learning Machine para treinamento de Redes Neurais Artificiais. Escrito para auto-aprendizado.  
