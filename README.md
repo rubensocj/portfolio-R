@@ -11,6 +11,12 @@ Os projetos são apresentados como Repositórios, Notebooks Kaggle, documentos R
 **Técnicas:** Visualização de Dados  
 **Pacotes:** shiny, shinyjs, dplyr, ggplot2, gridExtra, treemapify, geobr
 
+- [Online ML Classifier](https://rubensocj.shinyapps.io/online-ml-classifier/)  
+**Descrição:** Ferramenta online para classificação estatística usando algoritmos de aprendizado de máquina supervisionado.  
+**Tipo:** Dashboard Shiny  
+**Técnicas:** Visualização de Dados, Classificação, Support Vector Regression, Naive Bayes, k-Nearest Nerighbors, Decision Trees, Random Forest  
+**Pacotes:** shiny, shinyjs, shinythemes, shinyBS, DT, e1071, rpart, randomForest
+
 ## Análise de Dados
 
 - [Análise de dados da empresa Bellabeat](https://www.kaggle.com/code/rubensocj/an-lise-de-dados-da-empresa-bellabeat)  
