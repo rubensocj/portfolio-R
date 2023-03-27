@@ -12,9 +12,9 @@ Os projetos são apresentados como Repositórios, Notebooks Kaggle, documentos R
 **Pacotes:** shiny, shinyjs, dplyr, ggplot2, gridExtra, treemapify, geobr
 
 - [Online ML Classifier](https://rubensocj.shinyapps.io/online-ml-classifier/)  
-**Descrição:** Ferramenta online para classificação estatística usando algoritmos de aprendizado de máquina supervisionado.  
+**Descrição:** Ferramenta online para classificação estatística usando diversos algoritmos de aprendizado de máquina supervisionado, tais como Support Vector Regression, Naive Bayes, k-Nearest Nerighbors, Decision Trees e Random Forest.  
 **Tipo:** Dashboard Shiny  
-**Técnicas:** Visualização de Dados, Classificação, Support Vector Regression, Naive Bayes, k-Nearest Nerighbors, Decision Trees, Random Forest  
+**Técnicas:** Visualização de Dados, Classificação  
 **Pacotes:** shiny, shinyjs, shinythemes, shinyBS, DT, e1071, rpart, randomForest
 
 ## Análise de Dados
