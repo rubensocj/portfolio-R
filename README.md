@@ -9,7 +9,7 @@ Os projetos são apresentados como Repositórios, Notebooks Kaggle, documentos R
 **Descrição:** Ferramenta interativa para visualização de dados de casos de dengue nos municípios do estado do Ceará, obtidos da Secretaria da Saúde (SESA) pelo portal IPECEDATA.  
 **Tipo:** Dashboard Shiny  
 **Técnicas:** Visualização de Dados  
-**Pacotes:** shiny, shinyjs, dplyr, ggplot2, gridExtra, treemapify, geobr
+**Pacotes:** shiny, shinydashboard, shinyjs, dplyr, ggplot2, gridExtra, treemapify, geobr
 
 - [Online ML Classifier](https://rubensocj.shinyapps.io/online-ml-classifier/)  
 **Descrição:** Ferramenta online para classificação estatística usando diversos algoritmos de aprendizado de máquina supervisionado, tais como Support Vector Regression, Naive Bayes, k-Nearest Nerighbors, Decision Trees e Random Forest.  
