@@ -1,7 +1,7 @@
 # Portfólio R
 
 Este repositório reúne projetos relacionados à Ciência de Dados desenvolvidos em linguagem R para fins acadêmicos, profissionais e de auto-aprendizado.
-Os projetos são apresentados como Repositórios, Notebooks Kaggle, documentos R Markdown, Dashboards Shiny e Artigos científicos.
+Os projetos são apresentados como Repositórios, Notebooks Kaggle, Pacotes R, documentos R Markdown, Dashboards Shiny e Artigos científicos.
 
 ## Visualização de Dados
 
@@ -17,6 +17,14 @@ Os projetos são apresentados como Repositórios, Notebooks Kaggle, documentos R
 **Técnicas:** Visualização de Dados, Classificação  
 **Pacotes:** shiny, shinyjs, shinythemes, shinyBS, DT, e1071, rpart, randomForest
 
+## Desenvolvimento
+
+- [hidrotsbr: Process hydrological time series data of Brazil](https://github.com/rubensocj/hidrotsbr)  
+**Descrição:** O pacote fornece ferramentas para automatizar o processo de importação, limpeza e tratamento de dados de diferente serviços hidrológicos do Brasil. Atualmente, o pacote contém funções para dados do Serviço Geológico do Brasil (CPRM) e da Funcação Cearense de Meteorologia (FUNCEME)  
+**Tipo:** Pacote R  
+**Técnicas:** Limpeza de Dados  
+**Pacotes:** diplyr, tidyr  
+
 ## Análise de Dados
 
 - [Análise de dados da empresa Bellabeat](https://www.kaggle.com/code/rubensocj/an-lise-de-dados-da-empresa-bellabeat)  
@@ -30,18 +38,6 @@ Os projetos são apresentados como Repositórios, Notebooks Kaggle, documentos R
 **Tipo:** Notebook Kaggle  
 **Técnicas:** Limpeza de Dados, Visualização de Dados, Análise Exploratória de Dados  
 **Pacotes:** dplyr, ggplot2
-
-- [Processamento de dados da Fundação Cearense Meteorologia (FUNCEME)](https://github.com/rubensocj/series-FUNCEME)  
-**Descrição:** Automatiza o processo de importação, limpeza e organização de dados de postos pluviométricos do Estado do Ceará.  
-**Tipo:** Repositório  
-**Técnicas:** Limpeza de Dados  
-**Pacotes:** diplyr, tidyr  
-
-- [Processamento de dados da Rede Integrada de Monitoramento de Águas Subterrâneas (RIMAS)](https://github.com/rubensocj/series-RIMAS)  
-**Descrição:** Automatiza o processo de importação, limpeza e organização de dados de poços de monitoramento do Serviço Geológico do Brasil (CPRM).  
-**Tipo:** Repositório  
-**Técnicas:** Limpeza de Dados  
-**Pacotes:** diplyr  
 
 ## Análise de Séries Temporais
 
