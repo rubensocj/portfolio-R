@@ -33,12 +33,6 @@ Os projetos são apresentados como Repositórios, Notebooks Kaggle, Pacotes R, d
 **Técnicas:** Limpeza de Dados, Visualização de Dados, Análise de Correlação  
 **Pacotes:** dplyr, ggplot2, ggpubr, corrplot, lubridate
 
-- [Violence against Women: Exploratory Data Analysis](https://www.kaggle.com/rubensocj/violence-against-women-exploratory-data-analysis)  
-**Descrição:** Análise Exploratória de Dados de uma pesquisa realizada em países africanos, asiáticos e sul-americanos abordando as atitudes e as justificativas para cometer atos de violência contra as mulheres.  
-**Tipo:** Notebook Kaggle  
-**Técnicas:** Limpeza de Dados, Visualização de Dados, Análise Exploratória de Dados  
-**Pacotes:** dplyr, ggplot2
-
 ## Análise de Séries Temporais
 
 - [Simulação de valores ausentes em séries temporais de precipitação para avaliação de métodos de imputação](https://github.com/rubensocj/arquivo-R/blob/main/src/CunhaJuniorFirmino2022_Climatologia.pdf)  
